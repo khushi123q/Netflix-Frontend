@@ -2,7 +2,6 @@
 
 This project is a clone of the Netflix India website, featuring a modern design and responsive layout. It includes multiple sections such as a hero banner, service features, FAQs, and a footer.
 
-
 ## Project Overview
 
 The goal of this project is to replicate the front-end design of Netflix India's landing page. This includes various sections such as:
@@ -62,9 +61,9 @@ Netflix-Frontend/
 └── README.md
 ```
 
+
 ## Contact
 
-Your Name - [shawkhushi10@gmail.com](mailto:shawkhushi10@gmail.com)
+Your Name - [KHUSHI SHAW - shawkhushi10@gmail.com](mailto:shawkhushi10@gmail.com)
 
 Project Link: [https://github.com/khushi123q/Netflix-Frontend](https://github.com/khushi123q/Netflix-Frontend)
-
